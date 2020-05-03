@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="YazilimDilleri">
+        <item>Kotlin</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+    </string-array>
+</resources>
